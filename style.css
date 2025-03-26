@@ -10,7 +10,7 @@
     --fonte3: 'Sriracha', cursive;
 }
 
-* { 
+* {
     margin: 0px;
     padding: 0px;
     font-size: 1em;
@@ -51,7 +51,7 @@ header a:hover, footer a:hover {
     text-decoration: underline;
 }
 
-section{
+section {
     padding-top: 10vh;
     padding-bottom: 10vh;
     line-height: 2em;
@@ -82,7 +82,6 @@ section.imagem > p {
     padding: 5px;
     background-color: rgba(0, 0, 0, 0.514);
     text-shadow: 1px 1px 0px black;
-
 }
 
 section#img01 {
@@ -92,6 +91,7 @@ section#img01 {
 
 section#img02 {
     background-image: url('imagens/background002.jpg');
+
 }
 
 footer {
@@ -99,4 +99,5 @@ footer {
     color: white;
     text-align: center;
     padding: 10px;
+
 }
